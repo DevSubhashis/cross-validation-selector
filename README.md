@@ -1,4 +1,4 @@
-# CrossValidationSelector 🚀
+# Cross Validation Selector for ML 🚀
 
 > An interactive **React + Tailwind CSS** application that helps you **select the right Cross-Validation technique** for your Machine Learning problem.
 
@@ -7,6 +7,12 @@ This project is designed for:
 - Practitioners choosing the correct CV strategy
 - Interview preparation
 - Teaching & visualization
+
+---
+
+## 📖 Preview
+
+https://exquisite-dragon-57f1fc.netlify.app/
 
 ---
 
@@ -83,7 +89,5 @@ This project is designed for:
   - `river`
   - Custom implementations
 
----
 
-## 📂 Project Structure
 
